@@ -1,0 +1,22 @@
+{
+  "title": "Wecover",
+  "titleTemplate": "%s - An Awesome, New Way To Insure Your Car",
+  "description": "An Awesome, New Way To Insure Your Car -",
+  "image": "../public/wecover.svg",
+  "color": "#5C00FF",
+  "openGraph": {
+    "title": "Wecover",
+    "description": "An Awesome, New Way To Insure Your Car",
+    "type": "website",
+    "locale": "en_IE",
+    "site_name": "Wecover",
+    "images": [
+      {
+        "url": "../public/wecover.svg",
+        "width": 166,
+        "height": 23,
+        "alt": "Wecover"
+      }
+    ]
+  }
+}
